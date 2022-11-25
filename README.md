@@ -18,6 +18,8 @@ Dins del bash del docker cal instal·lar primer opencv:
 ```
 apt install libopencv-dev python3-opencv
 ```
+(Geographic area: Europe, Time zone: Madrid)
+
 Finalment, podem executar el script dins del docker. El programa només rep un argument, el path de l'imatge a processar. 
 Per exemple, per executar test1.png, s'ha d'executar la comanda:
 ```
